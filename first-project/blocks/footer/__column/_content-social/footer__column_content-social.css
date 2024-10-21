@@ -1,0 +1,15 @@
+.footer__column_content-social {
+    flex: 1; 
+    max-width: 120px; 
+  
+    margin-top: 0; 
+  }
+  
+  .footer__column_content-social h5 {
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    margin-bottom: 20px;
+    
+  }

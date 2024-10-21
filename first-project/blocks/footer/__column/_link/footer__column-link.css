@@ -1,0 +1,26 @@
+.footer__column-link{
+    transition: opacity 0.5s ease
+  }
+  
+  .footer__column-link:hover{
+    opacity: 0.5;
+  }
+
+  .footer__column-links {
+
+    margin: 0; /* Убираем внешние отступы */
+    margin-bottom: 16px;
+  }
+  
+  .footer__column-links a {
+    display: block; /* Ссылки занимают всю ширину */
+    margin: 0; /* Убираем отступы между ссылками */
+    padding: 0; /* Убираем внутренние отступы */
+    font-size: 16px; /* Текущий размер текста, не изменяем */
+    text-decoration: none; /* Убираем подчеркивание текста */
+    color: white; /* Устанавливаем цвет текста, если нужно */
+  
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: normal;
+  }

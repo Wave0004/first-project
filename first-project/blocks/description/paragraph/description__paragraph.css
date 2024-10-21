@@ -1,0 +1,11 @@
+.paragraph{
+
+    margin-bottom: 30px;
+    padding:0;
+    line-height: 34px;
+    font-size: 24px;
+    font-weight: normal;
+    font-family: 'Helvetica Neue', 'Arial', sans-serif;
+  }
+  
+  .paragraph:last-child { margin-bottom: 0; }

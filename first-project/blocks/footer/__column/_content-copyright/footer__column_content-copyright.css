@@ -1,0 +1,9 @@
+
+.footer__column_content-copyright {
+    flex: 1; 
+    max-width: 711px; 
+   
+    display: flex; 
+    flex-direction: column; 
+    justify-content: space-between; 
+  }

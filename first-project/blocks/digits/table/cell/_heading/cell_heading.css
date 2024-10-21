@@ -1,0 +1,9 @@
+.cell_heading{
+    margin-top: 0px;
+    margin-bottom: 20px;
+  
+    line-height: 1.15;
+    font-size: 24px;
+    font-weight: 600;
+    font-family: 'Helvetica Neue', 'Arial', sans-serif; 
+  }

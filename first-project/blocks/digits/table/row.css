@@ -1,0 +1,23 @@
+.row{
+    display: flex;
+    justify-content: space-between; 
+    width: 100%;
+    
+  }
+  
+  .table .row:first-child {
+    margin-top: 60px; 
+  }
+  
+  .table .row:last-child {
+    margin-top: 60px; 
+  }
+
+  .row .cell:first-child {
+    margin-left: 0;
+  }
+  
+  .row .cell:last-child {
+    margin-right: 0;
+  }
+  

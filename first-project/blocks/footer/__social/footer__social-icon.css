@@ -1,0 +1,17 @@
+.footer__social-icon {
+    display: flex; 
+    flex-direction: column; 
+    gap: 10px; 
+  }
+  
+  .footer__social-icon a {
+    display: flex; 
+    align-items: center; 
+    text-decoration: none; 
+    color: white; 
+  }
+
+
+.icon {
+  margin-right: 8px; 
+}
